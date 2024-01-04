@@ -1,16 +1,16 @@
-### Hi there 👋
+# Bienvenue sur Mon Profil GitHub 👋
 
-<!--
-**malomiquel/malomiquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 À Propos de Moi
 
-Here are some ideas to get you started:
+Bonjour, je suis Malo, Développeur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Mes Compétences
+
+- **Langages de Programmation :** Python, JavaScript, etc.
+- **Frameworks et Technologies :** React, Node.js, etc.
+- **Outils :** Git, Docker, etc.
+- **Autres compétences :** Gestion de projet, etc.
+
+## 📈 Statistiques GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malomiquel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
