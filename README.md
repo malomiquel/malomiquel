@@ -2,13 +2,14 @@
 
 ## 👤 À Propos de Moi
 
-Bonjour, je suis Malo, Développeur.
+Bonjour, je suis Malo, Développeur et Data Scientist.
 
 ## 🌟 Mes Compétences
 
-- **Langages de Programmation :** Python, JavaScript, etc.
+- **Langages de Programmation :** Python, JavaScript, Spark, etc.
 - **Frameworks et Technologies :** React, Node.js, etc.
 - **Outils :** Git, Docker, etc.
+- **IA :** Machine Learning, Deep Learning, etc.
 - **Autres compétences :** Gestion de projet, etc.
 
 ## 📈 Statistiques GitHub
