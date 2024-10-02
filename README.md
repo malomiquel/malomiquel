@@ -6,8 +6,8 @@ Bonjour, je suis Malo, Développeur et Data Scientist.
 
 ## 🌟 Mes Compétences
 
-- **Langages de Programmation :** Python, JavaScript, Spark, etc.
-- **Frameworks et Technologies :** React, Node.js, etc.
+- **Langages de Programmation :** Python, JavaScript, Typescript, Spark, etc.
+- **Frameworks et Technologies :** React, Angular, Next.js, Node.js, ExpressJS, etc.
 - **Outils :** Git, Docker, etc.
 - **IA :** Machine Learning, Deep Learning, etc.
 - **Autres compétences :** Gestion de projet, etc.
